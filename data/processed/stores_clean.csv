@@ -1,0 +1,21 @@
+store_id,store_name,city,region,store_type
+S001,Store 01,Valencia,North,Urban
+S002,Store 02,Madrid,South,Urban
+S003,Store 03,Barcelona,East,Shopping Centre
+S004,Store 04,Seville,West,Urban
+S005,Store 05,Bilbao,Central,Urban
+S006,Store 06,Zaragoza,North,Shopping Centre
+S007,Store 07,Malaga,South,Urban
+S008,Store 08,Alicante,East,Urban
+S009,Store 09,Murcia,West,Shopping Centre
+S010,Store 10,Valladolid,Central,Urban
+S011,Store 11,Valencia,North,Urban
+S012,Store 12,Madrid,South,Shopping Centre
+S013,Store 13,Barcelona,East,Urban
+S014,Store 14,Seville,West,Urban
+S015,Store 15,Bilbao,Central,Shopping Centre
+S016,Store 16,Zaragoza,North,Urban
+S017,Store 17,Malaga,South,Urban
+S018,Store 18,Alicante,East,Shopping Centre
+S019,Store 19,Murcia,West,Urban
+S020,Store 20,Valladolid,Central,Urban

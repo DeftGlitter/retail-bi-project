@@ -1,0 +1,121 @@
+product_id,product_name,category,brand,unit_price,unit_cost
+P0001,Electronic Product 001,Electronics,Brand 02,699.95,428.64
+P0002,Home Product 002,Home,Brand 03,774.86,548.62
+P0003,Small Appliance Product 003,Small Appliances,Brand 04,98.35,79.76
+P0004,Accessorie Product 004,Accessories,Brand 05,688.61,510.15
+P0005,Electronic Product 005,Electronics,Brand 06,128.38,79.16
+P0006,Home Product 006,Home,Brand 07,343.16,272.09
+P0007,Small Appliance Product 007,Small Appliances,Brand 08,584.82,441.2
+P0008,Accessorie Product 008,Accessories,Brand 09,407.42,217.59
+P0009,Electronic Product 009,Electronics,Brand 10,505.81,239.56
+P0010,Home Product 010,Home,Brand 11,747.45,511.04
+P0011,Small Appliance Product 011,Small Appliances,Brand 12,685.91,398.63
+P0012,Accessorie Product 012,Accessories,Brand 01,874.07,682.17
+P0013,Electronic Product 013,Electronics,Brand 02,703.87,367.43
+P0014,Home Product 014,Home,Brand 03,428.05,199.56
+P0015,Small Appliance Product 015,Small Appliances,Brand 04,151.55,106.5
+P0016,Accessorie Product 016,Accessories,Brand 05,674.11,544.67
+P0017,Electronic Product 017,Electronics,Brand 06,303.36,178.09
+P0018,Home Product 018,Home,Brand 07,430.56,223.94
+P0019,Small Appliance Product 019,Small Appliances,Brand 08,129.98,81.37
+P0020,Accessorie Product 020,Accessories,Brand 09,215.81,150.6
+P0021,Electronic Product 021,Electronics,Brand 10,401.88,304.66
+P0022,Home Product 022,Home,Brand 11,634.73,358.99
+P0023,Small Appliance Product 023,Small Appliances,Brand 12,751.55,561.98
+P0024,Accessorie Product 024,Accessories,Brand 01,357.92,199.25
+P0025,Electronic Product 025,Electronics,Brand 02,619.01,310.56
+P0026,Home Product 026,Home,Brand 03,191.92,86.89
+P0027,Small Appliance Product 027,Small Appliances,Brand 04,711.43,495.15
+P0028,Accessorie Product 028,Accessories,Brand 05,639.07,472.19
+P0029,Electronic Product 029,Electronics,Brand 06,421.14,278.14
+P0030,Home Product 030,Home,Brand 07,138.72,68.3
+P0031,Small Appliance Product 031,Small Appliances,Brand 08,606.54,378.67
+P0032,Accessorie Product 032,Accessories,Brand 09,515.23,377.69
+P0033,Electronic Product 033,Electronics,Brand 10,576.73,377.66
+P0034,Home Product 034,Home,Brand 11,509.9,286.8
+P0035,Small Appliance Product 035,Small Appliances,Brand 12,42.27,25.85
+P0036,Accessorie Product 036,Accessories,Brand 01,204.91,123.18
+P0037,Electronic Product 037,Electronics,Brand 02,770.26,413.29
+P0038,Home Product 038,Home,Brand 03,66.6,36.9
+P0039,Small Appliance Product 039,Small Appliances,Brand 04,274.83,190.98
+P0040,Accessorie Product 040,Accessories,Brand 05,507.97,375.92
+P0041,Electronic Product 041,Electronics,Brand 06,602.92,361.97
+P0042,Home Product 042,Home,Brand 07,735.41,376.37
+P0043,Small Appliance Product 043,Small Appliances,Brand 08,35.1,16.96
+P0044,Accessorie Product 044,Accessories,Brand 09,654.29,406.25
+P0045,Electronic Product 045,Electronics,Brand 10,157.73,100.22
+P0046,Home Product 046,Home,Brand 11,149.8,106.0
+P0047,Small Appliance Product 047,Small Appliances,Brand 12,409.85,242.21
+P0048,Accessorie Product 048,Accessories,Brand 01,281.84,192.55
+P0049,Electronic Product 049,Electronics,Brand 02,335.2,161.71
+P0050,Home Product 050,Home,Brand 03,119.44,96.26
+P0051,Small Appliance Product 051,Small Appliances,Brand 04,819.09,580.65
+P0052,Accessorie Product 052,Accessories,Brand 05,250.29,202.38
+P0053,Electronic Product 053,Electronics,Brand 06,704.19,503.67
+P0054,Home Product 054,Home,Brand 07,412.68,227.27
+P0055,Small Appliance Product 055,Small Appliances,Brand 08,100.31,78.64
+P0056,Accessorie Product 056,Accessories,Brand 09,418.36,219.59
+P0057,Electronic Product 057,Electronics,Brand 10,285.77,189.84
+P0058,Home Product 058,Home,Brand 11,171.44,131.49
+P0059,Small Appliance Product 059,Small Appliances,Brand 12,686.29,491.52
+P0060,Accessorie Product 060,Accessories,Brand 01,397.4,271.07
+P0061,Electronic Product 061,Electronics,Brand 02,531.93,367.27
+P0062,Home Product 062,Home,Brand 03,89.73,54.18
+P0063,Small Appliance Product 063,Small Appliances,Brand 04,51.83,32.8
+P0064,Accessorie Product 064,Accessories,Brand 05,306.93,154.53
+P0065,Electronic Product 065,Electronics,Brand 06,106.51,71.09
+P0066,Home Product 066,Home,Brand 07,165.97,131.5
+P0067,Small Appliance Product 067,Small Appliances,Brand 08,529.24,306.08
+P0068,Accessorie Product 068,Accessories,Brand 09,537.96,246.62
+P0069,Electronic Product 069,Electronics,Brand 10,863.32,542.56
+P0070,Home Product 070,Home,Brand 11,707.72,340.14
+P0071,Small Appliance Product 071,Small Appliances,Brand 12,445.69,281.48
+P0072,Accessorie Product 072,Accessories,Brand 01,844.98,558.99
+P0073,Electronic Product 073,Electronics,Brand 02,434.04,238.19
+P0074,Home Product 074,Home,Brand 03,308.44,198.22
+P0075,Small Appliance Product 075,Small Appliances,Brand 04,403.44,184.77
+P0076,Accessorie Product 076,Accessories,Brand 05,746.27,583.27
+P0077,Electronic Product 077,Electronics,Brand 06,139.12,91.12
+P0078,Home Product 078,Home,Brand 07,111.09,77.62
+P0079,Small Appliance Product 079,Small Appliances,Brand 08,263.89,183.14
+P0080,Accessorie Product 080,Accessories,Brand 09,658.39,483.52
+P0081,Electronic Product 081,Electronics,Brand 10,110.35,87.06
+P0082,Home Product 082,Home,Brand 11,218.74,101.46
+P0083,Small Appliance Product 083,Small Appliances,Brand 12,506.04,297.17
+P0084,Accessorie Product 084,Accessories,Brand 01,749.36,561.31
+P0085,Electronic Product 085,Electronics,Brand 02,295.67,237.3
+P0086,Home Product 086,Home,Brand 03,272.46,174.53
+P0087,Small Appliance Product 087,Small Appliances,Brand 04,241.53,192.34
+P0088,Accessorie Product 088,Accessories,Brand 05,160.68,74.98
+P0089,Electronic Product 089,Electronics,Brand 06,400.06,326.92
+P0090,Home Product 090,Home,Brand 07,804.13,584.59
+P0091,Small Appliance Product 091,Small Appliances,Brand 08,803.35,627.08
+P0092,Accessorie Product 092,Accessories,Brand 09,474.19,268.82
+P0093,Electronic Product 093,Electronics,Brand 10,698.23,485.14
+P0094,Home Product 094,Home,Brand 11,345.69,167.64
+P0095,Small Appliance Product 095,Small Appliances,Brand 12,675.91,369.8
+P0096,Accessorie Product 096,Accessories,Brand 01,844.08,455.09
+P0097,Electronic Product 097,Electronics,Brand 02,123.64,93.66
+P0098,Home Product 098,Home,Brand 03,150.66,77.79
+P0099,Small Appliance Product 099,Small Appliances,Brand 04,545.45,421.95
+P0100,Accessorie Product 100,Accessories,Brand 05,188.84,106.66
+P0101,Electronic Product 101,Electronics,Brand 06,703.0,569.13
+P0102,Home Product 102,Home,Brand 07,458.16,230.57
+P0103,Small Appliance Product 103,Small Appliances,Brand 08,27.33,14.62
+P0104,Accessorie Product 104,Accessories,Brand 09,131.66,92.26
+P0105,Electronic Product 105,Electronics,Brand 10,122.82,78.28
+P0106,Home Product 106,Home,Brand 11,629.42,418.57
+P0107,Small Appliance Product 107,Small Appliances,Brand 12,191.8,143.38
+P0108,Accessorie Product 108,Accessories,Brand 01,648.14,468.88
+P0109,Electronic Product 109,Electronics,Brand 02,130.99,64.94
+P0110,Home Product 110,Home,Brand 03,835.89,499.11
+P0111,Small Appliance Product 111,Small Appliances,Brand 04,281.34,177.46
+P0112,Accessorie Product 112,Accessories,Brand 05,601.63,483.46
+P0113,Electronic Product 113,Electronics,Brand 06,268.5,212.7
+P0114,Home Product 114,Home,Brand 07,37.0,24.25
+P0115,Small Appliance Product 115,Small Appliances,Brand 08,576.07,281.8
+P0116,Accessorie Product 116,Accessories,Brand 09,139.2,84.23
+P0117,Electronic Product 117,Electronics,Brand 10,870.12,583.45
+P0118,Home Product 118,Home,Brand 11,840.73,628.54
+P0119,Small Appliance Product 119,Small Appliances,Brand 12,428.63,317.34
+P0120,Accessorie Product 120,Accessories,Brand 01,30.79,15.1

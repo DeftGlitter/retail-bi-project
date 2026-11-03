@@ -1,0 +1,5 @@
+order_id,order_date,product_id,customer_id,store_id,quantity,discount_pct,sales_amount,cost_amount,profit,rejection_reason
+O0000006,2024-06-01,P0043,C99999,S002,1,0.05,33.34,16.96,16.38,unknown_customer;
+O0000009,2024-07-15,P0024,C01276,S011,1,1.25,357.92,199.25,158.67,invalid_discount;
+O0000013,2025-11-05,P0017,C00606,S012,0,0.05,288.19,178.09,110.1,invalid_quantity;
+O0000021,,P0062,C00516,S019,1,0.0,89.73,54.18,35.55,missing_or_invalid_date;
